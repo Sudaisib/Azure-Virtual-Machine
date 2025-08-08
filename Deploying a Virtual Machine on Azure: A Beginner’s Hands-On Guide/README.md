@@ -42,9 +42,13 @@ Virtual Machines (VMs) allow users to simulate a physical computer on the cloud.
 This hands-on guide shows you how to deploy a **Windows 10 VM** using the Azure Portal. Along the way, you'll learn how to:
 
 ✅ Create a virtual machine and resource group
+
 ✅ Secure access via IAM roles
+
 ✅ Attach and format a secondary data disk
+
 ✅ Access your VM remotely using RDP
+
 ✅ Tune idle timeout settings for uninterrupted sessions
 
 No scripting or CLI required — all steps use the Azure Portal UI.

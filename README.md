@@ -108,6 +108,8 @@ This project is designed to help beginners get hands-on experience by launching 
 
 📖 **Use Case:** Perfect for beginners who want to deploy their first VM and understand the essential configurations involved.
 
+🔗 **[View Full Project Here]([#project-1-deploying-a-virtual-machine-on-azure--a-beginners-hands-on-guide](https://github.com/Sudaisib/Azure-Virtual-Machine/tree/main/Deploying%20a%20Virtual%20Machine%20on%20Azure%3A%20A%20Beginner%E2%80%99s%20Hands-On%20Guide))**
+
 ---
 
 ## 🧱 **Types of Virtual Machines**
@@ -278,3 +280,4 @@ Azure DevTest Labs provides a self-service sandbox environment for developers an
 ## 🚀 **Thank You!**
 
 Thanks for exploring this Azure Virtual Machines Projects Portfolio — may it accelerate your learning journey in cloud infrastructure!
+

@@ -16,7 +16,8 @@ This repository showcases practical, real-world implementations and best practic
 
 4️⃣ **[Project Overview](#-project-overview)**
 
-* [Project 1: Creating a Virtual Machine in Azure Portal](#-project-1-creating-a-virtual-machine-in-azure-portal)
+* [Project 1: Creating a Virtual Machine in Azure Portal](#-project-1-deploying-a-virtual-machine-on-azure--a-beginners-hands-on-guide)
+* [Project 2: Creating and Managing Virtual Machine Images and Scale Sets in Azure](#-project-2-creating-and-managing-virtual-machine-images-and-scale-sets-in-azure-a-step-by-step-guide)
 
 5️⃣ **[Step-by-Step Deployment Guide](#-step-by-step-deployment-guide)**
 
@@ -109,6 +110,33 @@ This project is designed to help beginners get hands-on experience by launching 
 📖 **Use Case:** Perfect for beginners who want to deploy their first VM and understand the essential configurations involved.
 
 🔗 **[View Full Project Here](https://github.com/Sudaisib/Azure-Virtual-Machine/tree/main/Deploying%20a%20Virtual%20Machine%20on%20Azure%3A%20A%20Beginner%E2%80%99s%20Hands-On%20Guide)**
+
+---
+
+### 🔹 **Project 2: Creating and Managing Virtual Machine Images and Scale Sets in Azure — A Step-by-Step Guide**
+
+📌 **Introduction:**
+This project explores **advanced VM lifecycle management** in Azure by focusing on **VM Images** and **VM Scale Sets (VMSS)**. You will learn how to create reusable images for standardized deployments and how to configure VMSS for automatic scaling.
+
+✅ **Key Activities:**
+
+* Create a **Compute Gallery** to store VM images.
+* Capture an existing VM as an image.
+* Configure VM image replication for availability across regions.
+* Create and deploy a **VM Scale Set** using the custom image.
+* Configure scaling policies (manual & automatic).
+
+🛠️ **Technologies Used:**
+
+* **Azure Compute Gallery**
+* **VM Images**
+* **VM Scale Sets (VMSS)**
+* **Scaling Rules & Policies**
+* **Azure Portal** & **Azure CLI**
+
+📖 **Use Case:** Ideal for scenarios where you need to deploy and scale **identical VMs** quickly and efficiently across multiple environments.
+
+🔗 **[View Full Project Here](https://github.com/Sudaisib/Azure-Virtual-Machine/blob/main/VM%20Image%20&%20Creating%20VMSS/README.md)**
 
 ---
 
@@ -280,6 +308,3 @@ Azure DevTest Labs provides a self-service sandbox environment for developers an
 ## 🚀 **Thank You!**
 
 Thanks for exploring this Azure Virtual Machines Projects Portfolio — may it accelerate your learning journey in cloud infrastructure!
-
-
-

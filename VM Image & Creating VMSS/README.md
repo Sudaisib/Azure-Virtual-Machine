@@ -242,8 +242,7 @@ This process ensures **consistent, scalable, and cost-efficient** infrastructure
 
 ## 📝 **Blog Details**
 
-Read the full detailed guide here:
-🔗 **[👉 Creating and Managing Virtual Machine Images and Scale Sets in Azure](#https://dev.to/sudaisib/creating-and-managing-virtual-machine-images-and-scale-sets-in-azure-a-step-by-step-guide-49l)**
+Full guide: [Creating and Managing VM Images & Scale Sets in Azure](https://dev.to/sudaisib/creating-and-managing-virtual-machine-images-and-scale-sets-in-azure-a-step-by-step-guide-49l)
 
 ---
 
@@ -261,3 +260,4 @@ If you found this guide helpful:
 ✅ Connect on [LinkedIn](https://www.linkedin.com/in/oladosu-ibrahim/)
 
 ---
+
